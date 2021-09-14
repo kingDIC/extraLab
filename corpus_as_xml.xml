@@ -1,0 +1,728 @@
+<corpus id="corpus-for-selftest" lang="de">
+    <s id="s1">
+        <t id="s1_1" word="Eine"/>
+        <t id="s1_2" word="Flasche"/>
+        <t id="s1_3" word="ist"/>
+        <t id="s1_4" word="ein"/>
+        <t id="s1_5" word="Flüssigkeitsbehälter"/>
+        <t id="s1_6" word="."/>
+    </s>
+    <s id="s2">
+        <t id="s2_1" word="Ein"/>
+        <t id="s2_2" word="Versager"/>
+        <t id="s2_3" word="wird"/>
+        <t id="s2_4" word="manchmal"/>
+        <t id="s2_5" word="auch"/>
+        <t id="s2_6" word="als"/>
+        <t id="s2_7" word="Flasche"/>
+        <t id="s2_8" word="bezeichnet"/>
+        <t id="s2_9" word="."/>
+    </s>
+    <s id="s3">
+        <t id="s3_1" word="Die"/>
+        <t id="s3_2" word="Bank"/>
+        <t id="s3_3" word="im"/>
+        <t id="s3_4" word="Esszimmer"/>
+        <t id="s3_5" word="ist"/>
+        <t id="s3_6" word="ein"/>
+        <t id="s3_7" word="nur"/>
+        <t id="s3_8" word="halb"/>
+        <t id="s3_9" word="so"/>
+        <t id="s3_10" word="bequemes"/>
+        <t id="s3_11" word="Sitzmöbel"/>
+        <t id="s3_12" word="wie"/>
+        <t id="s3_13" word="die"/>
+        <t id="s3_14" word="Couch"/>
+        <t id="s3_15" word="im"/>
+        <t id="s3_16" word="Wohnzimmer"/>
+        <t id="s3_17" word="."/>
+    </s>
+    <s id="s4">
+        <t id="s4_1" word="Heutzutage"/>
+        <t id="s4_2" word="würden"/>
+        <t id="s4_3" word="viele"/>
+        <t id="s4_4" word="Menschen"/>
+        <t id="s4_5" word="für"/>
+        <t id="s4_6" word="Kohle"/>
+        <t id="s4_7" word=","/>
+        <t id="s4_8" word="das"/>
+        <t id="s4_9" word="Zahlungsmittel"/>
+        <t id="s4_10" word=","/>
+        <t id="s4_11" word="alles"/>
+        <t id="s4_12" word="machen"/>
+        <t id="s4_13" word="."/>
+    </s>
+    <s id="s5">
+        <t id="s5_1" word="Als"/>
+        <t id="s5_2" word="Ida"/>
+        <t id="s5_3" word="gestern"/>
+        <t id="s5_4" word="nach"/>
+        <t id="s5_5" word="Hause"/>
+        <t id="s5_6" word="kam"/>
+        <t id="s5_7" word=","/>
+        <t id="s5_8" word="präsentierte"/>
+        <t id="s5_9" word="sie"/>
+        <t id="s5_10" word="ihrer"/>
+        <t id="s5_11" word="Mutter"/>
+        <t id="s5_12" word="stolz"/>
+        <t id="s5_13" word="das"/>
+        <t id="s5_14" word="Ergebnis"/>
+        <t id="s5_15" word="ihrer"/>
+        <t id="s5_16" word="Deutscharbeit"/>
+        <t id="s5_17" word=":"/>
+        <t id="s5_18" word="Note"/>
+        <t id="s5_19" word="gut"/>
+        <t id="s5_20" word="."/>
+    </s>
+    <s id="s6">
+        <t id="s6_1" word="Wenn"/>
+        <t id="s6_2" word="der"/>
+        <t id="s6_3" word="Hahn"/>
+        <t id="s6_4" word="im"/>
+        <t id="s6_5" word="Badezimmer"/>
+        <t id="s6_6" word="defekt"/>
+        <t id="s6_7" word="ist"/>
+        <t id="s6_8" word=","/>
+        <t id="s6_9" word="dann"/>
+        <t id="s6_10" word="muss"/>
+        <t id="s6_11" word="der"/>
+        <t id="s6_12" word="Klempner"/>
+        <t id="s6_13" word="kommen"/>
+        <t id="s6_14" word="und"/>
+        <t id="s6_15" word="die"/>
+        <t id="s6_16" word="Zapfanlage"/>
+        <t id="s6_17" word="reparieren"/>
+        <t id="s6_18" word="."/>
+    </s>
+    <s id="s7">
+        <t id="s7_1" word="Da"/>
+        <t id="s7_2" word="mich"/>
+        <t id="s7_3" word="der"/>
+        <t id="s7_4" word="Hahn"/>
+        <t id="s7_5" word="unserer"/>
+        <t id="s7_6" word="Nachbarn"/>
+        <t id="s7_7" word="jeden"/>
+        <t id="s7_8" word="Morgen"/>
+        <t id="s7_9" word="um"/>
+        <t id="s7_10" word="6"/>
+        <t id="s7_11" word="Uhr"/>
+        <t id="s7_12" word="durch"/>
+        <t id="s7_13" word="sein"/>
+        <t id="s7_14" word="Krähen"/>
+        <t id="s7_15" word="weckt"/>
+        <t id="s7_16" word=","/>
+        <t id="s7_17" word="bin"/>
+        <t id="s7_18" word="ich"/>
+        <t id="s7_19" word="auf"/>
+        <t id="s7_20" word="diesen"/>
+        <t id="s7_21" word="Hühnervogel"/>
+        <t id="s7_22" word="nicht"/>
+        <t id="s7_23" word="gut"/>
+        <t id="s7_24" word="zu"/>
+        <t id="s7_25" word="sprechen"/>
+        <t id="s7_26" word="."/>
+    </s>
+    <s id="s8">
+        <t id="s8_1" word="Bei"/>
+        <t id="s8_2" word="Familie"/>
+        <t id="s8_3" word="Schmidt"/>
+        <t id="s8_4" word="ist"/>
+        <t id="s8_5" word="die"/>
+        <t id="s8_6" word="Klingel"/>
+        <t id="s8_7" word="nicht"/>
+        <t id="s8_8" word="direkt"/>
+        <t id="s8_9" word="an"/>
+        <t id="s8_10" word="der"/>
+        <t id="s8_11" word="Eingangstür"/>
+        <t id="s8_12" word="des"/>
+        <t id="s8_13" word="Hauses"/>
+        <t id="s8_14" word="angebracht"/>
+        <t id="s8_15" word=","/>
+        <t id="s8_16" word="sondern"/>
+        <t id="s8_17" word="am"/>
+        <t id="s8_18" word="davorliegenden"/>
+        <t id="s8_19" word="Tor"/>
+        <t id="s8_20" word="."/>
+    </s>
+    <s id="s9">
+        <t id="s9_1" word="Ein"/>
+        <t id="s9_2" word="ungebildeter"/>
+        <t id="s9_3" word="Mensch"/>
+        <t id="s9_4" word="wird"/>
+        <t id="s9_5" word="manchmal"/>
+        <t id="s9_6" word="auch"/>
+        <t id="s9_7" word="als"/>
+        <t id="s9_8" word="Tor"/>
+        <t id="s9_9" word="bezeichnet"/>
+        <t id="s9_10" word="."/>
+    </s>
+    <s id="s10">
+        <t id="s10_1" word="Wenn"/>
+        <t id="s10_2" word="Menschen"/>
+        <t id="s10_3" word="ihre"/>
+        <t id="s10_4" word="Wohnungen"/>
+        <t id="s10_5" word="im"/>
+        <t id="s10_6" word="Winter"/>
+        <t id="s10_7" word="mit"/>
+        <t id="s10_8" word="Kachelöfen"/>
+        <t id="s10_9" word="heizen"/>
+        <t id="s10_10" word=","/>
+        <t id="s10_11" word="kann"/>
+        <t id="s10_12" word="man"/>
+        <t id="s10_13" word="sich"/>
+        <t id="s10_14" word="daran"/>
+        <t id="s10_15" word="gemütlich"/>
+        <t id="s10_16" word="wärmen"/>
+        <t id="s10_17" word="."/>
+    </s>
+    <s id="s11">
+        <t id="s11_1" word="Ulrich"/>
+        <t id="s11_2" word="und"/>
+        <t id="s11_3" word="Peter"/>
+        <t id="s11_4" word="heizen"/>
+        <t id="s11_5" word="mit"/>
+        <t id="s11_6" word="ihren"/>
+        <t id="s11_7" word="Motorrädern"/>
+        <t id="s11_8" word="den"/>
+        <t id="s11_9" word="Berg"/>
+        <t id="s11_10" word="hinab"/>
+        <t id="s11_11" word="in"/>
+        <t id="s11_12" word="die"/>
+        <t id="s11_13" word="Stadt"/>
+        <t id="s11_14" word=","/>
+        <t id="s11_15" word="denn"/>
+        <t id="s11_16" word="sie"/>
+        <t id="s11_17" word="müssen"/>
+        <t id="s11_18" word="sich"/>
+        <t id="s11_19" word="beeilen"/>
+        <t id="s11_20" word=","/>
+        <t id="s11_21" word="dass"/>
+        <t id="s11_22" word="sie"/>
+        <t id="s11_23" word="nicht"/>
+        <t id="s11_24" word="zu"/>
+        <t id="s11_25" word="spät"/>
+        <t id="s11_26" word="zum"/>
+        <t id="s11_27" word="Meeting"/>
+        <t id="s11_28" word="kommen"/>
+        <t id="s11_29" word="."/>
+    </s>
+    <s id="s12">
+        <t id="s12_1" word="Das"/>
+        <t id="s12_2" word="Band"/>
+        <t id="s12_3" word=","/>
+        <t id="s12_4" word="das"/>
+        <t id="s12_5" word="Tim"/>
+        <t id="s12_6" word="sucht"/>
+        <t id="s12_7" word=","/>
+        <t id="s12_8" word="dient"/>
+        <t id="s12_9" word="ihm"/>
+        <t id="s12_10" word="als"/>
+        <t id="s12_11" word="Datenträger"/>
+        <t id="s12_12" word="für"/>
+        <t id="s12_13" word="seine"/>
+        <t id="s12_14" word="Videos"/>
+        <t id="s12_15" word="."/>
+    </s>
+    <s id="s13">
+        <t id="s13_1" word="Das"/>
+        <t id="s13_2" word="Buch"/>
+        <t id="s13_3" word="&quot;"/>
+        <t id="s13_4" word="Die"/>
+        <t id="s13_5" word="Rebellin"/>
+        <t id="s13_6" word="&quot;"/>
+        <t id="s13_7" word="ist"/>
+        <t id="s13_8" word="der"/>
+        <t id="s13_9" word="erste"/>
+        <t id="s13_10" word="Band"/>
+        <t id="s13_11" word="der"/>
+        <t id="s13_12" word="Trilogie"/>
+        <t id="s13_13" word="&quot;"/>
+        <t id="s13_14" word="Die"/>
+        <t id="s13_15" word="Gilde"/>
+        <t id="s13_16" word="der"/>
+        <t id="s13_17" word="Schwarzen"/>
+        <t id="s13_18" word="Magier"/>
+        <t id="s13_19" word="&quot;"/>
+        <t id="s13_20" word="von"/>
+        <t id="s13_21" word="Trudi"/>
+        <t id="s13_22" word="Canavan"/>
+        <t id="s13_23" word="."/>
+    </s>
+    <s id="s14">
+        <t id="s14_1" word="Katharina"/>
+        <t id="s14_2" word="hat"/>
+        <t id="s14_3" word="zum"/>
+        <t id="s14_4" word="Geburtstag"/>
+        <t id="s14_5" word="Eintrittskarten"/>
+        <t id="s14_6" word="für"/>
+        <t id="s14_7" word="die"/>
+        <t id="s14_8" word="Band"/>
+        <t id="s14_9" word="&quot;"/>
+        <t id="s14_10" word="Beomas"/>
+        <t id="s14_11" word="&quot;"/>
+        <t id="s14_12" word="-"/>
+        <t id="s14_13" word="das"/>
+        <t id="s14_14" word="ist"/>
+        <t id="s14_15" word="die"/>
+        <t id="s14_16" word="Musikgruppe"/>
+        <t id="s14_17" word=","/>
+        <t id="s14_18" word="die"/>
+        <t id="s14_19" word="sie"/>
+        <t id="s14_20" word="am"/>
+        <t id="s14_21" word="liebsten"/>
+        <t id="s14_22" word="hört"/>
+        <t id="s14_23" word="-"/>
+        <t id="s14_24" word="geschenkt"/>
+        <t id="s14_25" word="bekommen"/>
+        <t id="s14_26" word="."/>
+    </s>
+    <s id="s15">
+        <t id="s15_1" word="Eine"/>
+        <t id="s15_2" word="Kerze"/>
+        <t id="s15_3" word="dient"/>
+        <t id="s15_4" word="oft"/>
+        <t id="s15_5" word="als"/>
+        <t id="s15_6" word="Lichtquelle"/>
+        <t id="s15_7" word="für"/>
+        <t id="s15_8" word="romantische"/>
+        <t id="s15_9" word="Abende"/>
+        <t id="s15_10" word=","/>
+        <t id="s15_11" word="wogegen"/>
+        <t id="s15_12" word="die"/>
+        <t id="s15_13" word="Birne"/>
+        <t id="s15_14" word="in"/>
+        <t id="s15_15" word="einer"/>
+        <t id="s15_16" word="Deckenlampe"/>
+        <t id="s15_17" word="meist"/>
+        <t id="s15_18" word="kaltes"/>
+        <t id="s15_19" word="Licht"/>
+        <t id="s15_20" word="abstrahlt"/>
+        <t id="s15_21" word="."/>
+    </s>
+    <s id="s16">
+        <t id="s16_1" word="An"/>
+        <t id="s16_2" word="Weihnachten"/>
+        <t id="s16_3" word="versammelt"/>
+        <t id="s16_4" word="sich"/>
+        <t id="s16_5" word="die"/>
+        <t id="s16_6" word="Großfamilie"/>
+        <t id="s16_7" word="zum"/>
+        <t id="s16_8" word="Speisen"/>
+        <t id="s16_9" word="an"/>
+        <t id="s16_10" word="der"/>
+        <t id="s16_11" word="Tafel"/>
+        <t id="s16_12" word=","/>
+        <t id="s16_13" word="einem"/>
+        <t id="s16_14" word="sehr"/>
+        <t id="s16_15" word="großen"/>
+        <t id="s16_16" word="Tisch"/>
+        <t id="s16_17" word=","/>
+        <t id="s16_18" word="zusammen"/>
+        <t id="s16_19" word="."/>
+    </s>
+    <s id="s17">
+        <t id="s17_1" word="Die"/>
+        <t id="s17_2" word="Tafel"/>
+        <t id="s17_3" word="im"/>
+        <t id="s17_4" word="Klassenzimmer"/>
+        <t id="s17_5" word="ist"/>
+        <t id="s17_6" word="eine"/>
+        <t id="s17_7" word="Platte"/>
+        <t id="s17_8" word="auf"/>
+        <t id="s17_9" word="die"/>
+        <t id="s17_10" word="man"/>
+        <t id="s17_11" word="schreiben"/>
+        <t id="s17_12" word="kann"/>
+        <t id="s17_13" word="."/>
+    </s>
+    <s id="s18">
+        <t id="s18_1" word="Der"/>
+        <t id="s18_2" word="Fachausdruck"/>
+        <t id="s18_3" word="Pelit"/>
+        <t id="s18_4" word="bezieht"/>
+        <t id="s18_5" word="sich"/>
+        <t id="s18_6" word="auf"/>
+        <t id="s18_7" word="eine"/>
+        <t id="s18_8" word="Gesteinsgruppe"/>
+        <t id="s18_9" word="mit"/>
+        <t id="s18_10" word="Korngrößen"/>
+        <t id="s18_11" word="unter"/>
+        <t id="s18_12" word="0"/>
+        <t id="s18_13" word=","/>
+        <t id="s18_14" word="02mm"/>
+        <t id="s18_15" word=","/>
+        <t id="s18_16" word="wie"/>
+        <t id="s18_17" word="beispielsweise"/>
+        <t id="s18_18" word="Schluff"/>
+        <t id="s18_19" word=","/>
+        <t id="s18_20" word="Ton"/>
+        <t id="s18_21" word="und"/>
+        <t id="s18_22" word="Tonstein"/>
+        <t id="s18_23" word="."/>
+    </s>
+    <s id="s19">
+        <t id="s19_1" word="Der"/>
+        <t id="s19_2" word="Geruch"/>
+        <t id="s19_3" word="des"/>
+        <t id="s19_4" word="Weines"/>
+        <t id="s19_5" word=","/>
+        <t id="s19_6" word="der"/>
+        <t id="s19_7" word="auch"/>
+        <t id="s19_8" word="als"/>
+        <t id="s19_9" word="Blume"/>
+        <t id="s19_10" word="bezeichnet"/>
+        <t id="s19_11" word="wird"/>
+        <t id="s19_12" word=","/>
+        <t id="s19_13" word="ist"/>
+        <t id="s19_14" word="ein"/>
+        <t id="s19_15" word="wichtiges"/>
+        <t id="s19_16" word="Kriterium"/>
+        <t id="s19_17" word="bei"/>
+        <t id="s19_18" word="der"/>
+        <t id="s19_19" word="Qualitätsbeurteilung"/>
+        <t id="s19_20" word="."/>
+    </s>
+    <s id="s20">
+        <t id="s20_1" word="Das"/>
+        <t id="s20_2" word="Bad"/>
+        <t id="s20_3" word="ist"/>
+        <t id="s20_4" word="direkt"/>
+        <t id="s20_5" word="neben"/>
+        <t id="s20_6" word="meinem"/>
+        <t id="s20_7" word="Zimmer"/>
+        <t id="s20_8" word="."/>
+    </s>
+    <s id="s21">
+        <t id="s21_1" word="Bibiana"/>
+        <t id="s21_2" word="nimmt"/>
+        <t id="s21_3" word="täglich"/>
+        <t id="s21_4" word="ein"/>
+        <t id="s21_5" word="Bad"/>
+        <t id="s21_6" word=","/>
+        <t id="s21_7" word="da"/>
+        <t id="s21_8" word="sie"/>
+        <t id="s21_9" word="großen"/>
+        <t id="s21_10" word="Wert"/>
+        <t id="s21_11" word="auf"/>
+        <t id="s21_12" word="ihre"/>
+        <t id="s21_13" word="Körperhygiene"/>
+        <t id="s21_14" word="legt"/>
+        <t id="s21_15" word="."/>
+    </s>
+    <s id="s22">
+        <t id="s22_1" word="Es"/>
+        <t id="s22_2" word="ist"/>
+        <t id="s22_3" word="verwunderlich"/>
+        <t id="s22_4" word=","/>
+        <t id="s22_5" word="dass"/>
+        <t id="s22_6" word="das"/>
+        <t id="s22_7" word="neue"/>
+        <t id="s22_8" word="Bad"/>
+        <t id="s22_9" word="in"/>
+        <t id="s22_10" word="dem"/>
+        <t id="s22_11" word="kleinen"/>
+        <t id="s22_12" word="Ort"/>
+        <t id="s22_13" word="in"/>
+        <t id="s22_14" word="Bayern"/>
+        <t id="s22_15" word="gebaut"/>
+        <t id="s22_16" word="werden"/>
+        <t id="s22_17" word="soll"/>
+        <t id="s22_18" word=","/>
+        <t id="s22_19" word="wo"/>
+        <t id="s22_20" word="es"/>
+        <t id="s22_21" word="dort"/>
+        <t id="s22_22" word="doch"/>
+        <t id="s22_23" word="bereits"/>
+        <t id="s22_24" word="mehr"/>
+        <t id="s22_25" word="als"/>
+        <t id="s22_26" word="eine"/>
+        <t id="s22_27" word="Freizeitanlage"/>
+        <t id="s22_28" word="gibt"/>
+        <t id="s22_29" word="."/>
+    </s>
+    <s id="s23">
+        <t id="s23_1" word="Da"/>
+        <t id="s23_2" word="Schulkinder"/>
+        <t id="s23_3" word="noch"/>
+        <t id="s23_4" word="kein"/>
+        <t id="s23_5" word="Auto"/>
+        <t id="s23_6" word="fahren"/>
+        <t id="s23_7" word="dürfen"/>
+        <t id="s23_8" word=","/>
+        <t id="s23_9" word="müssen"/>
+        <t id="s23_10" word="sie"/>
+        <t id="s23_11" word="den"/>
+        <t id="s23_12" word="Bus"/>
+        <t id="s23_13" word="nehmen"/>
+        <t id="s23_14" word="um"/>
+        <t id="s23_15" word="in"/>
+        <t id="s23_16" word="die"/>
+        <t id="s23_17" word="Schule"/>
+        <t id="s23_18" word="zu"/>
+        <t id="s23_19" word="fahren"/>
+        <t id="s23_20" word="."/>
+    </s>
+    <s id="s24">
+        <t id="s24_1" word="Ein"/>
+        <t id="s24_2" word="Programm"/>
+        <t id="s24_3" word=","/>
+        <t id="s24_4" word="das"/>
+        <t id="s24_5" word="wirklich"/>
+        <t id="s24_6" word="auf"/>
+        <t id="s24_7" word="jedem"/>
+        <t id="s24_8" word="Betriebssystem"/>
+        <t id="s24_9" word="zu"/>
+        <t id="s24_10" word="finden"/>
+        <t id="s24_11" word="sein"/>
+        <t id="s24_12" word="sollte"/>
+        <t id="s24_13" word=","/>
+        <t id="s24_14" word="ist"/>
+        <t id="s24_15" word="ein"/>
+        <t id="s24_16" word="Dateimanager"/>
+        <t id="s24_17" word="."/>
+    </s>
+    <s id="s25">
+        <t id="s25_1" word="Wir"/>
+        <t id="s25_2" word="sind"/>
+        <t id="s25_3" word="bereits"/>
+        <t id="s25_4" word="beim"/>
+        <t id="s25_5" word="dritten"/>
+        <t id="s25_6" word="Tagesordnungspunkt"/>
+        <t id="s25_7" word="in"/>
+        <t id="s25_8" word="unserem"/>
+        <t id="s25_9" word="heutigen"/>
+        <t id="s25_10" word="Programm"/>
+        <t id="s25_11" word="angelant"/>
+        <t id="s25_12" word="."/>
+    </s>
+    <s id="s26">
+        <t id="s26_1" word="Wenn"/>
+        <t id="s26_2" word="Lutz"/>
+        <t id="s26_3" word="mal"/>
+        <t id="s26_4" word="wieder"/>
+        <t id="s26_5" word="einen"/>
+        <t id="s26_6" word="Witz"/>
+        <t id="s26_7" word="erzählt"/>
+        <t id="s26_8" word=","/>
+        <t id="s26_9" word="dann"/>
+        <t id="s26_10" word="denkt"/>
+        <t id="s26_11" word="sich"/>
+        <t id="s26_12" word="sein"/>
+        <t id="s26_13" word="Studienkollege"/>
+        <t id="s26_14" word="Hans"/>
+        <t id="s26_15" word="nur"/>
+        <t id="s26_16" word=":"/>
+        <t id="s26_17" word="&quot;"/>
+        <t id="s26_18" word="Wie"/>
+        <t id="s26_19" word="kann"/>
+        <t id="s26_20" word="man"/>
+        <t id="s26_21" word="den"/>
+        <t id="s26_22" word="ganzen"/>
+        <t id="s26_23" word="Tag"/>
+        <t id="s26_24" word="nur"/>
+        <t id="s26_25" word="so"/>
+        <t id="s26_26" word="viel"/>
+        <t id="s26_27" word="Mist"/>
+        <t id="s26_28" word="erzählen"/>
+        <t id="s26_29" word="&quot;"/>
+        <t id="s26_30" word="."/>
+    </s>
+    <s id="s27">
+        <t id="s27_1" word="Jeder"/>
+        <t id="s27_2" word="macht"/>
+        <t id="s27_3" word="gerne"/>
+        <t id="s27_4" word="mal"/>
+        <t id="s27_5" word="einen"/>
+        <t id="s27_6" word="Witz"/>
+        <t id="s27_7" word="-"/>
+        <t id="s27_8" word="am"/>
+        <t id="s27_9" word="beliebtesten"/>
+        <t id="s27_10" word="ist"/>
+        <t id="s27_11" word="jedoch"/>
+        <t id="s27_12" word="der"/>
+        <t id="s27_13" word="Aprilscherz"/>
+        <t id="s27_14" word="."/>
+    </s>
+    <s id="s28">
+        <t id="s28_1" word="Ich"/>
+        <t id="s28_2" word="esse"/>
+        <t id="s28_3" word="nicht"/>
+        <t id="s28_4" word="gerne"/>
+        <t id="s28_5" word="Kraut"/>
+        <t id="s28_6" word=","/>
+        <t id="s28_7" word="aber"/>
+        <t id="s28_8" word="Sauerkraut"/>
+        <t id="s28_9" word="ist"/>
+        <t id="s28_10" word="hin"/>
+        <t id="s28_11" word="und"/>
+        <t id="s28_12" word="wieder"/>
+        <t id="s28_13" word="okay"/>
+        <t id="s28_14" word="."/>
+    </s>
+    <s id="s29">
+        <t id="s29_1" word="Ohne"/>
+        <t id="s29_2" word="Flügel"/>
+        <t id="s29_3" word="kann"/>
+        <t id="s29_4" word="kein"/>
+        <t id="s29_5" word="Vogel"/>
+        <t id="s29_6" word="fliegen"/>
+        <t id="s29_7" word="."/>
+    </s>
+    <s id="s30">
+        <t id="s30_1" word="In"/>
+        <t id="s30_2" word="der"/>
+        <t id="s30_3" word="Politik"/>
+        <t id="s30_4" word="wird"/>
+        <t id="s30_5" word="mit"/>
+        <t id="s30_6" word="Flügel"/>
+        <t id="s30_7" word="der"/>
+        <t id="s30_8" word="Teil"/>
+        <t id="s30_9" word="einer"/>
+        <t id="s30_10" word="politischen"/>
+        <t id="s30_11" word="Partei"/>
+        <t id="s30_12" word="bezeichnet"/>
+        <t id="s30_13" word=","/>
+        <t id="s30_14" word="der"/>
+        <t id="s30_15" word="eine"/>
+        <t id="s30_16" word="bestimmte"/>
+        <t id="s30_17" word="politische"/>
+        <t id="s30_18" word="Richtung"/>
+        <t id="s30_19" word="vertritt"/>
+        <t id="s30_20" word="."/>
+    </s>
+    <s id="s31">
+        <t id="s31_1" word="Das"/>
+        <t id="s31_2" word="Flughafengebäude"/>
+        <t id="s31_3" word="in"/>
+        <t id="s31_4" word="Frankfurt"/>
+        <t id="s31_5" word="am"/>
+        <t id="s31_6" word="Main"/>
+        <t id="s31_7" word="ist"/>
+        <t id="s31_8" word="ein"/>
+        <t id="s31_9" word="sehr"/>
+        <t id="s31_10" word="weitläufiger"/>
+        <t id="s31_11" word="Bau"/>
+        <t id="s31_12" word="."/>
+    </s>
+    <s id="s32">
+        <t id="s32_1" word="Beim"/>
+        <t id="s32_2" word="Bau"/>
+        <t id="s32_3" word="eines"/>
+        <t id="s32_4" word="Hauses"/>
+        <t id="s32_5" word="darf"/>
+        <t id="s32_6" word="die"/>
+        <t id="s32_7" word="Baugenehmigung"/>
+        <t id="s32_8" word="nicht"/>
+        <t id="s32_9" word="fehlen"/>
+        <t id="s32_10" word="."/>
+    </s>
+    <s id="s33">
+        <t id="s33_1" word="Die"/>
+        <t id="s33_2" word="Aufgabe"/>
+        <t id="s33_3" word="von"/>
+        <t id="s33_4" word="Gefängniswärtern"/>
+        <t id="s33_5" word="besteht"/>
+        <t id="s33_6" word="darin"/>
+        <t id="s33_7" word=","/>
+        <t id="s33_8" word="Gefangene"/>
+        <t id="s33_9" word="am"/>
+        <t id="s33_10" word="Ausbrechen"/>
+        <t id="s33_11" word="aus"/>
+        <t id="s33_12" word="dem"/>
+        <t id="s33_13" word="Bau"/>
+        <t id="s33_14" word="zu"/>
+        <t id="s33_15" word="hindern"/>
+        <t id="s33_16" word="."/>
+    </s>
+    <s id="s34">
+        <t id="s34_1" word="Ein"/>
+        <t id="s34_2" word="Plan"/>
+        <t id="s34_3" word="ist"/>
+        <t id="s34_4" word="eine"/>
+        <t id="s34_5" word="Überlegung"/>
+        <t id="s34_6" word=","/>
+        <t id="s34_7" word="die"/>
+        <t id="s34_8" word="sich"/>
+        <t id="s34_9" word="auf"/>
+        <t id="s34_10" word="die"/>
+        <t id="s34_11" word="Verwirklichung"/>
+        <t id="s34_12" word="eines"/>
+        <t id="s34_13" word="Zieles"/>
+        <t id="s34_14" word="oder"/>
+        <t id="s34_15" word="einer"/>
+        <t id="s34_16" word="Absicht"/>
+        <t id="s34_17" word="richtet"/>
+        <t id="s34_18" word="."/>
+    </s>
+    <s id="s35">
+        <t id="s35_1" word="Eine"/>
+        <t id="s35_2" word="Linie"/>
+        <t id="s35_3" word="von"/>
+        <t id="s35_4" word="Punkten"/>
+        <t id="s35_5" word="mit"/>
+        <t id="s35_6" word="gleichem"/>
+        <t id="s35_7" word="Abstand"/>
+        <t id="s35_8" word="zu"/>
+        <t id="s35_9" word="einem"/>
+        <t id="s35_10" word="Mittelpunkt"/>
+        <t id="s35_11" word="wird"/>
+        <t id="s35_12" word="als"/>
+        <t id="s35_13" word="Kreis"/>
+        <t id="s35_14" word="bezeichnet"/>
+        <t id="s35_15" word="."/>
+    </s>
+    <s id="s36">
+        <t id="s36_1" word="Ein"/>
+        <t id="s36_2" word="Kreis"/>
+        <t id="s36_3" word="ist"/>
+        <t id="s36_4" word="nach"/>
+        <t id="s36_5" word="deutschem"/>
+        <t id="s36_6" word="Kommunalrecht"/>
+        <t id="s36_7" word="eine"/>
+        <t id="s36_8" word="Gebietskörperschaft"/>
+        <t id="s36_9" word="."/>
+    </s>
+    <s id="s37">
+        <t id="s37_1" word="Naturkunde"/>
+        <t id="s37_2" word="war"/>
+        <t id="s37_3" word="immer"/>
+        <t id="s37_4" word="mein"/>
+        <t id="s37_5" word="liebstes"/>
+        <t id="s37_6" word="Fach"/>
+        <t id="s37_7" word="in"/>
+        <t id="s37_8" word="der"/>
+        <t id="s37_9" word="Schule"/>
+        <t id="s37_10" word="."/>
+    </s>
+    <s id="s38">
+        <t id="s38_1" word="&quot;"/>
+        <t id="s38_2" word="Mein"/>
+        <t id="s38_3" word="Rat"/>
+        <t id="s38_4" word="soll"/>
+        <t id="s38_5" word="dir"/>
+        <t id="s38_6" word="als"/>
+        <t id="s38_7" word="gutgemeinter"/>
+        <t id="s38_8" word="Hinweis"/>
+        <t id="s38_9" word="dienen"/>
+        <t id="s38_10" word="."/>
+        <t id="s38_11" word="&quot;"/>
+    </s>
+    <s id="s39">
+        <t id="s39_1" word="Ein"/>
+        <t id="s39_2" word="großes"/>
+        <t id="s39_3" word="Fahrzeug"/>
+        <t id="s39_4" word="kann"/>
+        <t id="s39_5" word="Probleme"/>
+        <t id="s39_6" word="bekommen"/>
+        <t id="s39_7" word=","/>
+        <t id="s39_8" word="wenn"/>
+        <t id="s39_9" word="es"/>
+        <t id="s39_10" word="an"/>
+        <t id="s39_11" word="einer"/>
+        <t id="s39_12" word="engen"/>
+        <t id="s39_13" word="Kreuzung"/>
+        <t id="s39_14" word="abbiegen"/>
+        <t id="s39_15" word="muss"/>
+        <t id="s39_16" word="."/>
+    </s>
+</corpus>
